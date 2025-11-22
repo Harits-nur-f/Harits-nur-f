@@ -2,7 +2,7 @@
 
 Saya seorang Pelajar di STIKOM El-Rahma
 
-<h1>🖥 Sedang Belajar</h1>
+<h4>🖥 Sedang Belajar</h4>
 <p>- HTML</p>
 <p>- CSS</p>
 <p>- JavaScript</p>
