@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 Saya Harits Nur F. 
+
+Saya seorang Pelajar di STIKOM El-Rahma
+
+<h1>🖥 Sedang Belajar</h1>
+<p>- HTML</p>
+<p>- CSS</p>
+<p>- JavaScript</p>
 
 <!--
 **Harits-nur-f/Harits-nur-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
